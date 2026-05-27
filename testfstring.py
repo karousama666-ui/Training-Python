@@ -1,0 +1,5 @@
+print ("Nome: Carolina")
+print ("Idade: 28 anos")
+print ("Profissão: Biomédica")
+print ("Salário: R$ 3.000,00")
+print (f"eu gostei de usar fstrings para formatar minhas mensagens de saída em Python! {3.000,00}")

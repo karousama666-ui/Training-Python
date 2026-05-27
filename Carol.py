@@ -1,0 +1,1 @@
+print ("Olá! Sou a Carolina e já consigo rodar meus primeiros programas em Python")
